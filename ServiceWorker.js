@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-SavePlanet-0.1.0";
 const contentToCache = [
     "Build/SavePlanet.loader.js",
-    "Build/SavePlanet.framework.js.br",
-    "Build/SavePlanet.data.br",
-    "Build/SavePlanet.wasm.br",
+    "Build/SavePlanet.framework.js",
+    "Build/SavePlanet.data",
+    "Build/SavePlanet.wasm",
     "TemplateData/style.css"
 
 ];
